@@ -10,3 +10,4 @@ rm /tmp/my_first_directory/betty is a script to delete The file betty is in /tmp
 rm -r  /tmp/my_first_directory is a script to delete Delete the directory my_first_directory that is in the /tmp directory
 cd - is a script to change the working directory to the previous one
 ls -al . .. /boot is a script to list all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+file /tmp/iamafile is a scripts to print the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
