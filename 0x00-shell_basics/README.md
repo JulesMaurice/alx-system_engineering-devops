@@ -8,3 +8,4 @@ mkdir /tmp/my_first_directory is a script to Create a script that creates a dire
 mv /tmp/betty /tmp/my_first_directory is a script to Move the file betty from /tmp/ to /tmp/my_first_directory
 rm /tmp/my_first_directory/betty is a script to delete The file betty is in /tmp/my_first_directory
 rm -r  /tmp/my_first_directory is a script to delete Delete the directory my_first_directory that is in the /tmp directory
+cd - is a script to change the working directory to the previous one
