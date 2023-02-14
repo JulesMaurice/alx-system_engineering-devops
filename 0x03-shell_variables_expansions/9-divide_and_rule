@@ -1,2 +1,0 @@
-#!/bin/bash
-echo $(($POWER/$DIVIDE)) look for requirements if it is executed
